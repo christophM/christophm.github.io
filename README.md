@@ -1,2 +1,2 @@
-# christophm.github.io
-My personal website
+# My personal website
+Using Jekyll with the Jakal theme. 
