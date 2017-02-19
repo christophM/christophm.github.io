@@ -1,22 +1,19 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Jackal               # used for the html title of every page
-desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Christoph Molnar Analytics               # used for the html title of every page
+desc: Professional website of Christoph Molnar
 
-url: http://jackal.com      # put your website hosting url here
+url: https://christophm.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
-github_source: jackal
+email: christoph.molnar@gmail.com
+author: Christoph Molnar
+twitter_username: ChristophMolnar
+github_username: christophM
+github_source: christophm.github.io
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
@@ -29,18 +26,13 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Articles
-    url: /articles/
-    desc: Stuffs I write about
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
-  - title: About
-    url: /about/
-    desc: Learn about me
+  - title: Consulting
+    url: /consulting
+    desc: My consulting offer
+  - title: Blog
+    url: /blog/
+    desc: My blog
+
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
@@ -66,4 +58,3 @@ exclude:
   - vendor
 gems:
   - jekyll-paginate
-

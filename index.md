@@ -1,11 +1,36 @@
 ---
-layout: default
+layout: page
+title: Christoph Molnar Data Science Consulting
+subtitle: Molnar Data Science Consulting
+desc: About me.
+permalink: /
 ---
 
-<div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+<div class="pretty-links">
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
-
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+<div class="lead lead-about">I am passionate about using statistics and
+machine learning on data to make humans and machines smarter.
 </div>
+</div>
+
+{::nomarkdown}
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/profile-photo2.png">
+</figure>
+{:/}
+
+
+My name is Christoph Molnar, I am a freelance data scientist and [offer consulting](projects/) in statistics and machine learning. Occasionally I [blog](blog/) about machine learning. I am especially interested in making the decisions from algorithms more understandable for humans (explainable AI).
+
+
+
+
+If you are interested in hiring me, feel free to contact me!
+
+<form method="POST" action="http://formspree.io/christoph.molnar@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <input type="hidden" name="_subject" value="Consulting request" />
+  <input type="text" name="_gotcha" style="display:none" />
+  <button type="submit">Send</button>
+</form>

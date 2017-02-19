@@ -83,8 +83,10 @@
   }
 
   .site-nav {
-    float: right;
-    width: 80%;
+    // Originally with logo it was float: right
+    float: left;
+    // Originally  with logo it was width: 80%
+    width: 100%;
     margin-top: $spacer0;
     justify-content: space-around;
     font-size: 1.25rem;
