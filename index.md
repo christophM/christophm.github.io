@@ -27,10 +27,4 @@ My name is Christoph Molnar, I am a freelance data scientist and [offer consulti
 
 If you are interested in hiring me, feel free to contact me!
 
-<form method="POST" action="https://formspree.io/christoph.molnar@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <input type="hidden" name="_subject" value="Consulting request" />
-  <input type="text" name="_gotcha" style="display:none" />
-  <button type="submit">Send</button>
-</form>
+{% include form.html %}
