@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Christoph Molnar Data Science Consulting
-subtitle: Molnar Data Science Consulting
+title: Christoph Molnar
+subtitle:
 desc: About me.
 permalink: /
 ---
@@ -20,11 +20,9 @@ machine learning on data to make humans and machines smarter.
 {:/}
 
 
-My name is Christoph Molnar, I am a freelance data scientist and [offer consulting](projects/) in statistics and machine learning. Occasionally I [blog](blog/) about machine learning. I am especially interested in making the decisions from algorithms more understandable for humans (explainable AI).
+My name is Christoph Molnar, I am a freelance data scientist and [offer consulting](consulting/) in statistics and machine learning. I [blog](blog/) about machine learning and I am especially interested in making the decisions from algorithms more understandable for humans (explainable AI). I have worked so far in the financial
+and health industries [CV (PDF)]({{ site.baseurl }}/assets/doc/cv-christoph-molnar.pdf).
 
 
 
-
-If you are interested in hiring me, feel free to contact me!
-
-{% include form.html %}
+If you are interested in hiring me, feel free to [contact me!](/consulting)

@@ -9,7 +9,7 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: christoph.molnar@gmail.com
+email: christoph.molnar.ai@gmail.com
 author: Christoph Molnar
 twitter_username: ChristophMolnar
 github_username: christophM

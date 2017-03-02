@@ -6,21 +6,7 @@ desc: Data Science Consulting
 permalink: /consulting
 ---
 
-I offer:
+I offer consulting in statistics and machine learning. The first hour is free.
 
-- statistics
-- Machine learning
-
-
-Background in statistics, passion in machine learning. Got my master degree in
-statistics from the LMU in Munich, Germany. I have worked so far in the financial
-and health industries [CV (PDF)]({{ site.baseurl }}/assets/doc/cv-christoph-molnar.pdf).
-
-
-The first hour of consulting is for free.
-
-
-
-If you are interested in hiring me, feel free to contact me!
-
+If you are interested in hiring me fill out the form and I will reach out to you or send an email to christoph.molnar.ai[at]gmail.com. 
 {% include form.html %}
