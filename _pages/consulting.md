@@ -3,7 +3,7 @@ layout: page
 title: Data Science Consulting
 subtitle: Data Science Consulting
 desc: Data Science Consulting
-permalink: /consulting
+permalink: /consulting/
 ---
 
 I offer consulting in statistics and machine learning. The first hour is free.
