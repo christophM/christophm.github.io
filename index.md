@@ -21,7 +21,7 @@ machine learning on data to make humans and machines smarter.
 
 
 My name is Christoph Molnar, I am a freelance data scientist and [offer consulting](consulting/) in statistics and machine learning. I [blog](blog/) about machine learning and I am especially interested in making the decisions from algorithms more understandable for humans (explainable AI). I have worked so far in the financial
-and health industries [CV (PDF)]({{ site.baseurl }}/assets/doc/cv-christoph-molnar.pdf).
+and health industries [CV (PDF)](https://www.dropbox.com/s/ixlm39ufuwoy7wc/cv-christoph-molnar.pdf?dl=1).
 
 
 
