@@ -21,7 +21,7 @@ machine learning on data to make humans and machines smarter.
 
 Background in statistics, passion in machine learning. Got my master degree in
 statistics from the LMU in Munich, Germany. I have worked so far in the financial
-and health industries [CV (PDF)]({{ site.baseurl }}/assets/doc/cv-christoph-molnar.pdf).
+and health industries [CV (PDF)](https://www.dropbox.com/s/ixlm39ufuwoy7wc/cv-christoph-molnar.pdf?dl=1).
 
 ---
 
