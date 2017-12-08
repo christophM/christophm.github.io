@@ -24,4 +24,4 @@ My name is Christoph Molnar, I am a data scientist and PhD candidate in interpre
 
 
 
-If you are interested in working with me on interpretable machine learning, feel free to [contact me!](/consulting)
+If you are interested in working with me on interpretable machine learning, feel free to [contact me!](/collaboration)
