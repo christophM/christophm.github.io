@@ -29,9 +29,6 @@ navigation:
   - title: Book
     url: /book/
     desc: Book on Interpretable Machine Learning
-  - title: Collaboration
-    url: /collaboration
-    desc: Work on interpretable ML
   - title: Blog
     url: /blog/
     desc: My blog
