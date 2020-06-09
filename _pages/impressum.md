@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Christoph Molnar
-subtitle: Impressum
-desc: Impressum
-permalink: /impressum/
+subtitle: Imprint
+desc: Imprint
+permalink: /imprint/
 ---
 
 
 Christoph Molnar \\
-Zurich, Switzerland
+Munich, Germany
 
 <script language="JavaScript">
 var username = "christoph.molnar.ai";
